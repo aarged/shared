@@ -1,2 +1,2 @@
-# stasH-O-Rama
+# Public files
 
